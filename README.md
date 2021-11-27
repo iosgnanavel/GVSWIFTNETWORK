@@ -22,7 +22,7 @@ pod 'GVSwiftNetwork'
 
 ## Author
 
-santhosh, santhosh.n@hoffensoft.com
+iosgnanavel, iosgnanavel@gmail.com
 
 ## License
 
