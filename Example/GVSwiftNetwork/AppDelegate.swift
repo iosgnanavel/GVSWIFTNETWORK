@@ -1,13 +1,12 @@
 //
 //  AppDelegate.swift
-//  SwiftNetwork
+//  GVSwiftNetwork
 //
-//  Created by iosgnanavel on 05/20/2021.
-//  Copyright (c) 2021 iosgnanavel. All rights reserved.
+//  Created by santhosh on 11/27/2021.
+//  Copyright (c) 2021 santhosh. All rights reserved.
 //
 
 import UIKit
-import SwiftNetwork
 
 @UIApplicationMain
 class AppDelegate: UIResponder, UIApplicationDelegate {
@@ -17,9 +16,6 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
 
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplicationLaunchOptionsKey: Any]?) -> Bool {
         // Override point for customization after application launch.
-        
-        // Setup the Base Path to Swift Network
-        SwiftNetworkClientAPI.basePath = ""
         return true
     }
 

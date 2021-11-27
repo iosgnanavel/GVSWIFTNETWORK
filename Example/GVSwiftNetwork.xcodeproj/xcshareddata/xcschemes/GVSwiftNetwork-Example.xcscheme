@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "607FACCF1AFB9204008FA782"
-               BuildableName = "SwiftNetwork_Example.app"
-               BlueprintName = "SwiftNetwork_Example"
-               ReferencedContainer = "container:SwiftNetwork.xcodeproj">
+               BuildableName = "GVSwiftNetwork_Example.app"
+               BlueprintName = "GVSwiftNetwork_Example"
+               ReferencedContainer = "container:GVSwiftNetwork.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
          <BuildActionEntry
@@ -29,9 +29,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "607FACE41AFB9204008FA782"
-               BuildableName = "SwiftNetwork_Tests.xctest"
-               BlueprintName = "SwiftNetwork_Tests"
-               ReferencedContainer = "container:SwiftNetwork.xcodeproj">
+               BuildableName = "GVSwiftNetwork_Tests.xctest"
+               BlueprintName = "GVSwiftNetwork_Tests"
+               ReferencedContainer = "container:GVSwiftNetwork.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -48,9 +48,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "607FACE41AFB9204008FA782"
-               BuildableName = "SwiftNetwork_Tests.xctest"
-               BlueprintName = "SwiftNetwork_Tests"
-               ReferencedContainer = "container:SwiftNetwork.xcodeproj">
+               BuildableName = "GVSwiftNetwork_Tests.xctest"
+               BlueprintName = "GVSwiftNetwork_Tests"
+               ReferencedContainer = "container:GVSwiftNetwork.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -58,9 +58,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "607FACCF1AFB9204008FA782"
-            BuildableName = "SwiftNetwork_Example.app"
-            BlueprintName = "SwiftNetwork_Example"
-            ReferencedContainer = "container:SwiftNetwork.xcodeproj">
+            BuildableName = "GVSwiftNetwork_Example.app"
+            BlueprintName = "GVSwiftNetwork_Example"
+            ReferencedContainer = "container:GVSwiftNetwork.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -82,9 +82,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "607FACCF1AFB9204008FA782"
-            BuildableName = "SwiftNetwork_Example.app"
-            BlueprintName = "SwiftNetwork_Example"
-            ReferencedContainer = "container:SwiftNetwork.xcodeproj">
+            BuildableName = "GVSwiftNetwork_Example.app"
+            BlueprintName = "GVSwiftNetwork_Example"
+            ReferencedContainer = "container:GVSwiftNetwork.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -101,9 +101,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "607FACCF1AFB9204008FA782"
-            BuildableName = "SwiftNetwork_Example.app"
-            BlueprintName = "SwiftNetwork_Example"
-            ReferencedContainer = "container:SwiftNetwork.xcodeproj">
+            BuildableName = "GVSwiftNetwork_Example.app"
+            BlueprintName = "GVSwiftNetwork_Example"
+            ReferencedContainer = "container:GVSwiftNetwork.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

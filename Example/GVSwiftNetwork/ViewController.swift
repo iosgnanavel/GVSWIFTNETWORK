@@ -1,13 +1,13 @@
 //
 //  ViewController.swift
-//  SwiftNetwork
+//  GVSwiftNetwork
 //
-//  Created by iosgnanavel on 05/20/2021.
-//  Copyright (c) 2021 iosgnanavel. All rights reserved.
+//  Created by santhosh on 11/27/2021.
+//  Copyright (c) 2021 santhosh. All rights reserved.
 //
 
 import UIKit
-import SwiftNetwork
+import GVSwiftNetwork
 
 class ViewController: UIViewController {
 
@@ -15,7 +15,7 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
         
-        
+        GVSwiftNetwork.SwiftNetworkClientAPI.basePath = ""
         // Loader Start
         UserAPI.loginUser(username: "userName", password: "password", deviceID: "deviceID") { (response, error) in
             guard let userDetails = response else {

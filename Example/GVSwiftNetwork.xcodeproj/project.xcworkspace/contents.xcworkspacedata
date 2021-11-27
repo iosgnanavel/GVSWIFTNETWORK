@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:SwiftNetwork.xcodeproj">
+      location = "self:GVSwiftNetwork.xcodeproj">
    </FileRef>
 </Workspace>
